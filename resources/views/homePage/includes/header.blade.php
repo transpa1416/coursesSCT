@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary" navbar-scroll="true">
-    <a class="navbar-brand" href="#">SCT Cursos</a>
+    <a class="navbar-brand" href="#">T.I. Gali</a>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
             {{-- <li class="nav-item">
